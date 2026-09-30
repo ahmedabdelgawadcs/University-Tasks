@@ -1,0 +1,3 @@
+Student's Full Name is: Ahmed Ali Abdelgawad Ahmed
+Student's ID: 1234
+Student's Grade: 100
