@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Replacing Text in a File/Replacing Text in a File.vcxproj" />
+</Solution>
