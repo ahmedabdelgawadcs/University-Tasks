@@ -17,7 +17,7 @@ bool empty() {
 bool full() {
 	return top_index == MAX_SIZE - 1;
 }
-
++
 void push(int stack[], int item) {
 	if (full())
 		cout << "Stack Overflow!";
