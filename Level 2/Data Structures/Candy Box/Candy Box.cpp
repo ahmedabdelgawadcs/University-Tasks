@@ -37,6 +37,8 @@ int main() {
 	cout << "\n\nCandy box after eating yellows : ";
 	display_stack(candy);
 
+    cout << '\n';
+
 	system("pause > 0");
 
 	return 0;
