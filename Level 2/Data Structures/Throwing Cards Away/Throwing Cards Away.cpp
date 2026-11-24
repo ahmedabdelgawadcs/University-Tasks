@@ -20,6 +20,8 @@ int main() {
 		q.pop();
 	}
 
+    cout << '\n' << q.front() << endl;
+
 	system("pause > 0");
 
 	return 0;
